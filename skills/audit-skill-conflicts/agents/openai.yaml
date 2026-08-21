@@ -1,0 +1,5 @@
+interface:
+  display_name: "Skill Conflict Auditor"
+  short_description: "Detect and explain conflicts across installed skills"
+  default_prompt: "Use $audit-skill-conflicts to compare the available skills and report every actionable conflict with evidence."
+
